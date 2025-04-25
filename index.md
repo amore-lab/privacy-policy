@@ -12,11 +12,15 @@ Undefined capitalized terms used herein shall have the meaning set forth in the 
 
 **Information you provide directly to us.** We may collect information directly from you. For example, you may provide us with information when you use the Services, communicate with us, register for an account, subscribe to newsletters, or participate in a promotion. Information you provide directly to us may concern you and others and may include, but is not limited to:
 
-- Email address;
-- User name;
-- Payment information (e.g. through our payment processing vendors);
-- Your User Content (as defined in the Terms of Service), such as chat communications, posted images, and shared Characters; and
-- Contents of communications with us.
+(i) Email address;
+
+(ii) User name;
+
+(iii) Payment information (e.g. through our payment processing vendors);
+
+(iv) Your User Content (as defined in the Terms of Service), such as chat communications, posted images, and shared Characters; and
+
+(v) Contents of communications with us.
 
 You are not required to provide us with such information, but certain features of the Services may not be accessible or available absent the provision of the requested information.
 
@@ -32,23 +36,37 @@ When you use the Services, we may collect general location information (such as 
 
 We may also collect information when you connect to your account using an account maintained by a third party, such as a social media account (“Third-Party Account”). The Services may collect information about you from your Third-Party Accounts in accordance with your permissions. When you connect to us through a Third-Party Account like Facebook or Google, we receive information from that third party identifying your account. We collect and store this information and use it to help you connect to the Services. Connecting your account to a Third-Party Account is completely optional, and you will have the opportunity to grant permission when you attempt to connect. You can revoke permission by logging into the Third-Party Account and disconnecting Meyou from there, and through the native applications on your smartphone. We may retain the information we collected previously from you.
 
-**Consent for Marketing Communications and Notifications.** With your explicit consent, we may send you service updates, marketing content, and promotional information through the following methods:
+**Consent for Marketing Communications and Notifications.** With your explicit consent, we may send you service updates, marketing content, and promotional information through the following methods:
 
-- Email
-- In-app notifications
-- Push notifications
+(i) Email
+
+(ii) In-app notifications
+
+(iii) Push notifications
 
 These communications are designed to enhance your experience by informing you about new features, personalized content, and events related to our service.
 
 You can withdraw your consent at any time through the following methods:
 
-- Clicking the “unsubscribe” link at the bottom of any email
-- Adjusting your notification preferences in the app under [Settings] > [Notification Settings]
-- Contacting our support team at hello@dotdotdot.ai
+(i) Clicking the “unsubscribe” link at the bottom of any email
+
+(ii) Adjusting your notification preferences in the app under [Settings] > [Notification Settings]
+
+(iii) Contacting our support team at hello@dotdotdot.ai
 
 Please note that transactional or service-related communications (such as changes to our terms or important security updates) may still be sent regardless of your marketing preferences, as they are essential to the operation of the service.
 
-**Personal Data Deletion Policy Upon Account Deletion.**  When a user deletes their account, all personally identifiable information (PII) associated with the account will be permanently deleted from our systems without delay, except where retention is required by applicable laws or internal policies for legal, security, or operational reasons. This includes, but is not limited to, your email address, name, payment history, and any uploaded content.
+**Item Data and Related Privacy Practices.** You acknowledge and agree to the following practices regarding the collection and handling of item-related data:
+
+(i) We collect information related to the issuance and use of free and paid items—including timestamps, item types, and transaction logs—for purposes such as customer support, fraud prevention, and maintaining service integrity.
+
+(ii) You may access, correct, delete, or object to the processing of your item-related data at any time.
+
+(iii) Paid item data is retained until your account is deleted, unless a longer retention period is required under applicable law.
+
+(iv) We use industry-standard security measures, including TLS encryption, access controls, and audit logging, to protect your data from unauthorized access, misuse, or loss.
+
+**Personal Data Deletion Policy Upon Account Deletion.** When a user deletes their account, all personally identifiable information (PII) associated with the account will be permanently deleted from our systems without delay, except where retention is required by applicable laws or internal policies for legal, security, or operational reasons. This includes, but is not limited to, your email address, name, payment history, and any uploaded content.
 
 Re-registration is not allowed within 30 days of account deletion.
 
@@ -56,6 +74,6 @@ For creators, please note that if another user has already created a chatroom wi
 
 Some data that has been anonymized or aggregated in a way that it can no longer be linked to an individual may be retained for analytical and service improvement purposes.
 
-If you have any questions about data deletion, please contact us at admin@amore-lab.com
+If you have any questions about data deletion, please contact us at [support@dotdotdot.chat](mailto:support@dotdotdot.chat)
 
-Account Deletion. We’re sorry to see you go. If you wish to delete your dotdotdot account and associated data, please email to admin@amore-lab.com, and we will help you with the process
+Account Deletion. We’re sorry to see you go. If you wish to delete your dotdotdot account and associated data, please email to support@dotdotdot.chat, and we will help you with the process
